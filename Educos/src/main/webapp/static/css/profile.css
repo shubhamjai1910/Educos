@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+td
+{
+	color:#024F40;
+	font-family: ariAL;
+	font-size:1cm;
+	text-align:center;
+	margin :3px;
+	font-weight: bold;
+}
